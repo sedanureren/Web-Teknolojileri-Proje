@@ -2,6 +2,10 @@
     background-color:lightslategrey !important; 
     
 }
+.bg-arka{
+    background-color:rgb(243, 243, 245) !important; 
+    
+}
 .resimSlider{
     width: 330px;
     height: 450px;
@@ -9,4 +13,21 @@
 }
 body{
 font-family: 'Raleway', sans-serif;
+}
+.hakkimizda{
+    background-color:#f2f2f2;
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    position: relative;
+    top: -50px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+
 }
