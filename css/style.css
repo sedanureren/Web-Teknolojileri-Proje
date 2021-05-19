@@ -7,12 +7,15 @@
     
 }
 .resimSlider{
-    width: 5400px;
+    width: 900px;
+    height: 500px;
     
 }
 body{
+    
 font-family: 'Raleway', sans-serif;
 }
+
 .hakkimizda{
     background-color:#f2f2f2;
 }
@@ -29,4 +32,8 @@ font-family: 'Raleway', sans-serif;
     border: 10px solid #f2f2f2;
     background-color: #f2f2f2;
 
+}
+.slider1{
+    width: 800px !important;
+    height: 500px ;
 }
